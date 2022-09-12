@@ -7,7 +7,7 @@
 ##
 
 <div>
- <img align="right" height="480em" src="https://i.redd.it/xh8wwa0aibp41.jpg" />
+ <img align="right" height="480em" src="https://imagenspng.com/wp-content/uploads/dragon-ball-z-dragon-png-Facil-de-baixar.png" />
   <a href="https://github.com/migrt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migrt&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migrt&layout=compact&langs_count=16&hide_border=true&theme=tokyonight"/>
