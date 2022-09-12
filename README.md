@@ -30,5 +30,5 @@
   
 ##
 
-![snake gif](https://github.com/migrt/migrt/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MigRT/migrt/blob/output/github-contribution-grid-snake.svg)
 
