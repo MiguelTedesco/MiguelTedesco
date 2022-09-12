@@ -29,6 +29,3 @@
 </div>
   
 ##
-
-![snake gif](https://github.com/MigRT/migrt/blob/main/.github/workflows/cobrinha.yml)
-
