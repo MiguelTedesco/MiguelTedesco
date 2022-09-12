@@ -1,8 +1,8 @@
 ### Hello, my name is Miguel Tedesco!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:AAFA69,100:F0E50F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:33FA25,100:F0E50F&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5982E2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel+Tedesco;I'm+17+years+old;I'am+from+Santo+Antônio+da+Patrulha,+RS;I'am+a+student+at+the+CIMOL+technical+school;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33FA25&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel+Tedesco;I'm+17+years+old;I'am+from+Santo+Antônio+da+Patrulha,+RS;I'am+a+student+at+the+CIMOL+technical+school;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
