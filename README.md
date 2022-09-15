@@ -28,6 +28,6 @@
 
 ###
 
-<img href="https://github.com/migrt/migrt/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/migrt/migrt/blob/output/github-contribution-grid-snake.svg)
 
 ###
