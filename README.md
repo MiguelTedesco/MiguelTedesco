@@ -30,11 +30,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/migrt/migrt/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/migrt/migrt/blob/main/workflows/snake.yml" alt="Snake animation" />
 
 ###
-
-<img align="right" height="150" src=""  />
-
-###
-
