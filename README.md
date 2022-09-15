@@ -28,8 +28,10 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/migrt/migrt/blob/main/workflows/snake.yml" alt="Snake animation" />
+<div align="center">
+  
+  ![Snake animation](https://github.com/migrt/migrt/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ###
