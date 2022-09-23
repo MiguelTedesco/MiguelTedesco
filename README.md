@@ -28,6 +28,6 @@
 
 ###
 
-![Snake animation](https://github.com/migrt/migrt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/migrt/migrt/blob/output/github-contribution-grid-snake.svg) 
 
 ###
