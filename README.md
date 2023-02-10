@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miguel Tedesco and I'm a fullstack developer, from Santo Antônio da Patrulha</h2>
+<h2 align="left">Hi 👋! My name is Miguel Tedesco and I'm a fullstack developer, from Carlos Barbosa</h2>
 
 ###
 
