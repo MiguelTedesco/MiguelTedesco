@@ -26,7 +26,7 @@
   <a href="mailto:miguelroletotedesco@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/miguel-roleto-tedesco-612387241/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-tedesco-612387241" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
